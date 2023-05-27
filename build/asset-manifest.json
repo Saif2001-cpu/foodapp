@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Saif2001-cpu.github.io/food-delivery/static/css/main.cc35002c.css",
+    "main.js": "/Saif2001-cpu.github.io/food-delivery/static/js/main.4797b2b4.js",
+    "static/media/meals.jpg": "/Saif2001-cpu.github.io/food-delivery/static/media/meals.0c727dd7446f2e19cb39.jpg",
+    "index.html": "/Saif2001-cpu.github.io/food-delivery/index.html",
+    "main.cc35002c.css.map": "/Saif2001-cpu.github.io/food-delivery/static/css/main.cc35002c.css.map",
+    "main.4797b2b4.js.map": "/Saif2001-cpu.github.io/food-delivery/static/js/main.4797b2b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc35002c.css",
+    "static/js/main.4797b2b4.js"
+  ]
+}
